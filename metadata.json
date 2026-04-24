@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow",
+  "description": "A clean and efficient daily task tracker with reminders and local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
